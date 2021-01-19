@@ -1,0 +1,5 @@
+#include "core_mqtt.h"
+#include "core_mqtt_config_defaults.h"
+#include "core_mqtt_serializer.h"
+#include "core_mqtt_state.h"
+#include "transport_interface.h"
